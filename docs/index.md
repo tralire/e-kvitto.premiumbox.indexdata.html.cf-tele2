@@ -1,36 +1,111 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tralire/premiumbox/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE html>
+<html lang="sv">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <style>
+    body {
+      background-image: url(./style9.svg);
+      background-size:cover;
 
-### Markdown
+    }
+    .d {
+      color: green;
+      font-family: open-sans;
+      position: absolute;
+      top: 80px;
+      left: 20px;
+    }
+     .d2 {
+       color: green;
+       position: absolute;
+       top: auto;
+       left: auto;
+     }
+     .d3 {
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+     }
+    .penj {
+      font-family: open-sans;
+      text-align: center;
+      color: green;
+    }
+    .fullCard {
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      margin: 10px 5px;
+      padding: 5px;
+      height: 175px;
+      width: 300px;
+    }
+    body {
+      
+    }
+    .silver-background {
+      background-color: silver;
+    }
+    .betald-status {
+      font-size: 15px;
+      color: blue;
+    }
+    .deff {
+      color: green;
+      font-size: 30px;
+    }
+    .deff-t {
+      color: green;
+      text-align: left;
+      font-size: 30px;
+    }
+    #mittid3 {
+      font-family: monospace Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color: blue;
+    }
+    #mittid4 {
+      font-family: open-sans;
+      text-align: left;
+      position: relative;
+      top: -55px;
+    }
+    .rad11 {
+      text-align: left;
+    }
+    #myInput {
+      color: red;
+    }
+    #background {
+      
+      image-resolution: ""
+    }
+  </style>
+  <p id="mittid3">PremiumBox</p>
+  <html>
+    
+    <body>
+      <h1 class="fullCard silver-background deff penj">Info
+        <h2 class="d"> Kund: <br> Produkt(er): <br> Garanti tills: <br> ID nummer:</h2>
+        
+        
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tralire/premiumbox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+        
+      </h1>
+      <p id="mittid3"> Kontakta din leverantör för att göra ändringar <br> eller om du behöver hjälp. Tillverkad av D6 <br> Digitala Verktyg AB för PremiumBox AB, <br> GDPR licenserad.</p>
+    </body>
+    <!DOCTYPE html>
+    <html>
+    <body>
+    
+    </body>
+    </html>
+    
+    
+    </body>
+    </html>
+  </html>
+</html>
+yll theme you have selected in your [repository settings](https://github.com/tralire/premiumbox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
